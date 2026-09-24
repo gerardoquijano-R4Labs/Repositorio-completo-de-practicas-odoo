@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./odoo-core",
+        "D:/Gerardo/Programacion Antigravity/Programas/odoo-dev/odoo-core"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./odoo-core",
+        "D:/Gerardo/Programacion Antigravity/Programas/odoo-dev/odoo-core"
+    ]
+}
